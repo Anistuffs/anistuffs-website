@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my WIP basic personal website
 
 You can use the [editor on GitHub](https://github.com/Anistuffs/anistuffs-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
