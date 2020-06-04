@@ -1,3 +1,5 @@
+Note to self: Change all font to Computer Modern unicode.
+
 ## Welcome to my WIP basic personal website
 
 Adding a link to the website in the readme.md file: [Link](https://anistuffs.github.io/website/)
