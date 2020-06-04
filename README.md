@@ -1,5 +1,10 @@
 Note to self: Change all font to Computer Modern unicode.
 
+Note to self: change theme to a combination of:
+- colour scheme of [Midnight](https://github.com/pages-themes/midnight)
+- font of either [Dinky](https://github.com/pages-themes/dinky) or regular text of [Merlot](https://github.com/pages-themes/merlot) or CMU as above
+- [other theme sources are here](https://pages.github.com/themes/)
+
 ## Welcome to my WIP basic personal website
 
 Adding a link to the website in the readme.md file: [Link](https://anistuffs.github.io/website/)
