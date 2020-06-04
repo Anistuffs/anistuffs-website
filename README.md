@@ -1,5 +1,7 @@
 ## Welcome to my WIP basic personal website
 
+Adding a link to the website in the readme.md file: [Link](https://anistuffs.github.io/website/)
+
 You can use the [editor on GitHub](https://github.com/Anistuffs/anistuffs-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
