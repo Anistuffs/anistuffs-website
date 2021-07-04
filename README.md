@@ -1,17 +1,16 @@
-Note to self: Actually learn how to code websites. [Here's a decent starting point.](https://www.khanacademy.org/computing/computer-programming/html-css)
+Step 1: Actually learn how to code websites. [Here's a decent starting point.](https://www.khanacademy.org/computing/computer-programming/html-css)
 
-Note to self: Change all font to Computer Modern unicode.
+Step 2: Choose a font for the website.
 
-Note to self: change theme to a combination of:
-- colour scheme of [Midnight](https://github.com/pages-themes/midnight)
-- font of either [Dinky](https://github.com/pages-themes/dinky) or regular text of [Merlot](https://github.com/pages-themes/merlot) or CMU as above
-- [other theme sources are here](https://pages.github.com/themes/)
+Step 3: change theme to a combination of:
+- [Minimal](https://pages-themes.github.io/minimal/)
+- colour scheme of [Midnight](https://pages-themes.github.io/midnight/)
+- font of either [Dinky](https://pages-themes.github.io/dinky/) or regular text of [Merlot](https://pages-themes.github.io/merlot/)
+- maybe elements from other themes from the github page settings
 
 ## Welcome to my WIP basic personal website
 
-Adding a link to the website in the readme.md file: [Link](https://anistuffs.github.io/website/)
-
-You can use the [editor on GitHub](https://github.com/Anistuffs/anistuffs-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Adding a link to the website in the readme.md file: [Link](https://anistuffs.github.io/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -41,7 +40,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anistuffs/anistuffs-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
