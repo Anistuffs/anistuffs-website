@@ -1,4 +1,5 @@
 Note to self: Actually learn how to code websites. [Here's a decent starting point.](https://www.khanacademy.org/computing/computer-programming/html-css)
+
 Note to self: Change all font to Computer Modern unicode.
 
 Note to self: change theme to a combination of:
